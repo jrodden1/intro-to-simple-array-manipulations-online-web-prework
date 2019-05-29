@@ -36,3 +36,10 @@ end
 
 def using_flatten(array)
   flat_array = array.flatten
+end
+
+def using_delete(array, string)
+  no_offense_steven = array.delete string
+  instructors
+end
+
