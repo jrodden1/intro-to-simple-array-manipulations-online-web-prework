@@ -25,3 +25,7 @@ end
 def using_concat(array1, array2)
   all_my_favs = array1.concat array2
 end
+
+def using_insert(array, element)
+  new_array = array.insert[4] element
+end
